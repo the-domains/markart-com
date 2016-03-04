@@ -1,0 +1,14 @@
+layout_spectrum: 0.5787234
+typography_spectrum: 0.4276596
+color:
+  saturation: 0.8127569
+  lightness: 0.1784871
+  brandStrength: 0.9553192
+  brandColors:
+    - '#88C46C'
+    - '#908AC9'
+    - '#FFFFFF'
+    - '#307591'
+    - '#030304'
+  rhythmicContrast: 0.5213867
+name: Markart.com
